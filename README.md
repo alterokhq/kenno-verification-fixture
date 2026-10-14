@@ -1,2 +1,3 @@
-# kenno-verification-fixture
-Synthetic fixtures for Kenno GitHub verification acceptance. No application source or customer data.
+# Kenno verification fixture
+
+Public synthetic test data only. Two branches exercise classic branch protection and repository rulesets. The optional check intentionally fails.
